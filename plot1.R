@@ -1,5 +1,5 @@
 
-
+# Data and script should be in the same directory. Plot will be in same directory also.
 # setwd("/Users/miltos/Documents/Coursera/JHDSS/4.ExploratoryDataAnalysis/Week1/ExData_Plotting1")
 getwd()
 
